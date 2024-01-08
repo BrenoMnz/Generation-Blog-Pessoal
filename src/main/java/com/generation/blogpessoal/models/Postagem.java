@@ -1,4 +1,4 @@
-﻿package com.generation.blogpessoal.models;
+package com.generation.blogpessoal.models;
 
 import java.time.LocalDateTime;
 
